@@ -1,0 +1,60 @@
+Old Dan Rd
+Whitechapel Rd
+King's Cross Station
+The Angel Islington
+Euston Rd
+Pentonville Rd
+Pall Mall
+Electric Co
+Whitehall
+Northumberland Ave
+Marylebone Station
+Bow St
+Marlborough St
+Vine St
+Strand
+Fleet St
+Trafalgar Sq
+Fenchurch St Station
+Leicester Sq
+Coventry St
+Water Works
+Piccadilly
+Regent St
+Oxford St
+Bond St
+Liverpool St Station
+Park Lane
+Maguire Avenue
+Income Tax
+Super Tax
+200
+100
+Dan
+Whitechapel
+Kings
+Angel
+Euston
+Pentonville
+Mall
+Electric
+Whitehall
+Northumberland
+Marylebone
+Bow
+Marlborough
+Vine
+Strand
+Fleet
+Trafalgar
+Fenchurch
+Leicester
+Coventry
+Water
+Piccadilly
+Regent
+Oxford
+Bond
+Liverpool
+Park
+Maguire
